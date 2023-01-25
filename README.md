@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/lancelot_hans" target="blank"><img src="https://img.shields.io/twitter/follow/@lancelot_hans?logo=twitter&style=for-the-badge" alt="@lancelot_hans" /></a> </p>
 
-- 🔭 I’m currently working on [Wordpress developer]()
+- 🔭 I’m currently working with [JavaScript](https://lancelot-so.github.io/capstone_project/)
 
 - 🌱 I’m currently learning **Full-stack development**
 
